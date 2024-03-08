@@ -1,7 +1,7 @@
 # ssd1306_fixed_fonts
 I created 6 fixed fonts of type spleen for micropython and the SSD1306.
 The spleen font is available at  
-https://github.com/fcambus/spleen using the program.
+https://github.com/fcambus/spleen.
 The conversion program and driver comes from
 https://github.com/peterhinch/micropython-font-to-py.
 All the stuff is tested on the Raspberry Pi Pico with
